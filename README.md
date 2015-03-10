@@ -1,7 +1,7 @@
-ucsd-fall-2010-superproxy
-=========================
+SuperProxy
+==========
 
-Java source code, hadoop config and reports of SuperProxy project of UCSD Course, Networked Services, in Fall 2010
+Java source code, hadoop config and documentation of SuperProxy project
 
 The project is to implement scalable web proxy with HDFS as cache filesystem. 
 It consists of mainly 2 parts: configuring HDFS and writing Java Servlet code.
@@ -10,4 +10,4 @@ URL, do URL rewriting and save contents into HDFS. Next time any user wants to a
 SuperProxy sends small request to see if there is any updates based on HTTP Header Modified-by. If there is no updates, 
 SuperProxy will return cached contents. The purpose is to optimize network traffic needed and to improve response time.
 
-The project is originally at https://code.google.com/p/cse124tassapol2/
+The project is originally located at https://code.google.com/p/cse124tassapol2/
