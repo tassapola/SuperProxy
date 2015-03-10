@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/51/trunk/super_proxy_web/WebContent/WEB-INF/lib
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/51/trunk/super_proxy_web/WebContent/WEB-INF/lib/servlet-api.jar
+END
+hadoop-0.20.2-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/37/trunk/super_proxy_web/WebContent/WEB-INF/lib/hadoop-0.20.2-core.jar
+END
+commons-logging-1.0.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/37/trunk/super_proxy_web/WebContent/WEB-INF/lib/commons-logging-1.0.4.jar
+END
+proxy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/55/trunk/super_proxy_web/WebContent/WEB-INF/lib/proxy.jar
+END

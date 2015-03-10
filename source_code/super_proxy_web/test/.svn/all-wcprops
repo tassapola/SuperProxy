@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/51/trunk/super_proxy_web/test
+END
+TestMultithreadDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/51/trunk/super_proxy_web/test/TestMultithreadDownloader.java
+END
+TestHdfsWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/51/trunk/super_proxy_web/test/TestHdfsWriter.java
+END
+TestCacheUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/51/trunk/super_proxy_web/test/TestCacheUtil.java
+END
+TestMyUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/51/trunk/super_proxy_web/test/TestMyUtil.java
+END
+TestHdfsReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/51/trunk/super_proxy_web/test/TestHdfsReader.java
+END
+TestDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/51/trunk/super_proxy_web/test/TestDownloader.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/53/trunk/super_proxy_web/src/proxy/cache
+END
+UrlConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/53/trunk/super_proxy_web/src/proxy/cache/UrlConstants.java
+END
+CacheUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/37/trunk/super_proxy_web/src/proxy/cache/CacheUtil.java
+END
+CacheData.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/37/trunk/super_proxy_web/src/proxy/cache/CacheData.java
+END
+CacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/52/trunk/super_proxy_web/src/proxy/cache/CacheManager.java
+END
